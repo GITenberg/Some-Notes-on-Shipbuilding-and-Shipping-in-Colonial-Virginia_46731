@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Some Notes on Shipbuilding and Shipping in Colonial Virginia
 url: http://www.gutenberg.org/ebooks/46731
